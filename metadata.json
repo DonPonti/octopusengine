@@ -1,0 +1,5 @@
+{
+  "name": "Octopus Resume Engine",
+  "description": "An AI-powered application that simulates an Applicant Tracking System (ATS) to analyze resumes. Users can upload their resume (PDF or TXT) to receive a score, a pass/fail verdict, and detailed feedback on strengths, weaknesses, and keywords to improve their chances of passing real ATS filters.",
+  "requestFramePermissions": []
+}

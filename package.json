@@ -1,0 +1,14 @@
+{
+  "name": "octopus-resume-engine",
+  "version": "1.0.0",
+  "description": "An AI-powered application that simulates an Applicant Tracking System (ATS) to analyze resumes.",
+  "scripts": {
+    "build": "echo \"Build step not required. Using CDN for Tailwind CSS to ensure compatibility.\""
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.13",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  }
+}
